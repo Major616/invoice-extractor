@@ -4,3 +4,4 @@ streamlit
 easygui
 pymupdf  
 pillow
+google-generativeai
